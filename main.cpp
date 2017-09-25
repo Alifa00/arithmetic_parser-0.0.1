@@ -39,6 +39,7 @@ int main() {
     if (com=='>'){
         cout << (x>>y);
     }
+    cin.get();
     return 0;
 }
 
